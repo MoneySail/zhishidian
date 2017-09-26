@@ -12,6 +12,6 @@
 分类
 ----
 　　目录分类为 c、c++、python、php, java(包含Android), js, lua、os  
-(linux，ucos, free-rtos等)，暂且就按照这个几个目录吧。  
+(linux，ucos, free-rtos等)，se => SoftWare Engineering暂且就按照这个几个目录吧。  
 　　另外，这个repo的名字 zhshidian => 知识点，还是不加复数了。  
 
