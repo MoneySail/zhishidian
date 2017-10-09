@@ -51,4 +51,12 @@ textformat, wrapMode, horizontalAligment, verticalAligment等属性。
 　　ECMASCript有五种原始类型，即Undefined，Null，Boolean，Number和String，提供typeof  
 判断一个变量的类型，如果是引用值，typeof一般会返回"object"作为类型的名字。
 
+# Qt Quick元素布局 #
+
+## 定位器 ##
+　　常用的定位器元素有Row(行), Column(列), Grid(单元格), Flow(动态计算)
+
+## 布局计算 ##
+　　
+
 
