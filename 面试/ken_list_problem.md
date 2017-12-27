@@ -1,21 +1,20 @@
-Tech problems
+Tch problems
 =============
 
 General Problems
 ----------------
 1.Linux相关  
 　　1）常见的指令(cd, mkdir, cp, mv, ls, tail)等命令 =>　查阅Github那个网站，及之前看过的40个常用的linux命令  
-　　2）linux线程和进程，EPOLL，SELECT, POLL的区别，linux内存分配的原理()  
+　　2）linux线程和进程，EPOLL，SELECT, POLL的区别，linux内存分配的原理  
 　　3）嵌入式Linux的相关问题(驱动，内核，移植，UBOOT，QT，交叉编译)  
 
 2.语言相关  
 　　1）C++  
 　　　C++的对象模型，STL的代码及使用，C++模板的相关概念  
 　　2）C   
-　　　嵌入式编程的注意事项  
-　　　ARM的相关知识  
+　　　嵌入式编程的注意事项;ARM的相关知识  
     3）PYTHON  
-    　　Python常见的面试问题，Twisted框架, Tornado框架
+    　　Python常见的面试问题，Twisted框架, Tornado框架  
     4) PHP  
     　　查看常见的面试题目，了解LARAVEL框架  
     5) JS  
